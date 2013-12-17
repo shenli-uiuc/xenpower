@@ -880,6 +880,7 @@ void do_header(void)
 	}
 	xentop_attroff(A_REVERSE);
 	print("\n");
+  print("Shen test \n");
 }
 
 /* Displays bottom status line or current prompt */
